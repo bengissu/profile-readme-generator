@@ -1,2 +1,2 @@
 # readme-creator
-Profile Readme Creator for Data Scientists and Analysts
+Profile Readme Generator for Data Scientists and Analysts
